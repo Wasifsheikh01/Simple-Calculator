@@ -42,4 +42,11 @@ Connect with us on GitHub to contribute, suggest improvements, or customize Calc
 ***ScreenShots***
 
 
-![Screenshot 23-04-2024 04_21_24](https://github.com/Wasifsheikh01/Simple-Calculator/assets/102783831/387a3d58-566c-465f-ac50-78058c5f44d5)
+![Screenshot 23-04-2024 04_21_24](https://github.com/Wasifsheikh01/Simple-Calculator/assets/102783831/387a3d58-56
+
+https://github.com/Wasifsheikh01/Simple-Calculator/assets/102783831/fde686d8-a9ba-44c1-9edd-9758cde08631
+
+6c-465f-ac50-78058c5f44d5)
+
+
+
