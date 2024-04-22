@@ -38,3 +38,8 @@ Connect with us on GitHub to contribute, suggest improvements, or customize Calc
 **Happy calculating!**
 
 [Note: This project was built using React.js and styled with CSS.]
+
+***ScreenShots***
+
+
+![Screenshot 23-04-2024 04_21_24](https://github.com/Wasifsheikh01/Simple-Calculator/assets/102783831/387a3d58-566c-465f-ac50-78058c5f44d5)
